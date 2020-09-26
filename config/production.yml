@@ -1,0 +1,5 @@
+server:
+  origin: http://nestjs-task-management-nitin-fe.s3-website.ap-south-1.amazonaws.com
+db:
+  syncronize: false
+  
